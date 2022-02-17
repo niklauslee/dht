@@ -1,0 +1,6 @@
+{
+  "name": "dht",
+  "version": "1.0.0",
+  "description": "Kaluma library for DHT humidity and temperature sensor",
+  "main": "index.js"
+}
